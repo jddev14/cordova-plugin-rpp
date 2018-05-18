@@ -2,7 +2,7 @@
    <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
            id="cordova-plugin-rpp"
            version="0.0.1">
-     <name>Rpp Cordava Plugin</name>
+     <name>Rpp Cordova Plugin</name>
 
      <engines>
        <engine name="cordova" version=">=3.4.0"/>
