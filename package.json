@@ -1,5 +1,5 @@
 {
-  "name": "Rpp Cordova Plugin",
+  "name": "Rpp",
   "version": "0.0.1",
   "description": "Cordova plugin for the receipt printing (Fork from CXRom)",
   "cordova": {
