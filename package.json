@@ -1,0 +1,22 @@
+{
+  "name": "Rpp Cordova Plugin",
+  "version": "0.0.1",
+  "description": "Cordova plugin for the receipt printing (Fork from CXRom)",
+  "cordova": {
+    "id": "cordova-plugin-rpp",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jddev14/cordova-plugin-rpp.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Minubia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jddev14/cordova-plugin-rpp/issues"
+  },
+  "homepage": "https://github.com/jddev14/cordova-plugin-rpp#readme"
+}
