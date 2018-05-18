@@ -14,7 +14,7 @@ I think the driver can work for ore models but I can't confirm.
 ## Installing the plugin
 
 ```
-cordova plugin add https://github.com/CXRom/cordova-plugin-rpp.git
+cordova plugin add https://github.com/jddev14/cordova-plugin-rpp.git
 ```
 
 ## Quick Example
